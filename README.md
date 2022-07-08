@@ -45,7 +45,7 @@ URL은 URI의 유형으로 자원뿐만 아니라 인터넷에서 **어떻게 �
 ```
 $ git clone https://github.com/elice-AI4/tech-interview.git
 $ cd tech-interview
-$ git switch -b [기여자 이름] main
+$ git checkout -b [기여자 이름] main
 ```
 2️⃣ 작성하세요!
 ```
